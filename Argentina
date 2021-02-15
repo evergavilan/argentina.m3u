@@ -28,31 +28,30 @@ http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:0 tvg-chno="14" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="PARAGUAY",EL TRECE
 https://stream.rpc.com.py/live/trece.m3u8
 
-#EXTINF:0 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="ARGENTINA",TN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613401242/ei/OjgqYOfmA_2K1sQP952kkAc/ip/181.9.166.41/id/wHn1_QVoXGM.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgO0-6NJblTXEdmlfDw4rDUKSS1oDwhJVgUZjO_Wy_XPgCIEebFBQ0-D8wATr5itfzEVOrtJsCvHvRK_reXUlxmB7S/file/index.m3u8
+#EXTINF:0 tvg-chno="5" tvg-logo="https://1.bp.blogspot.com/-KFvSroNMpnw/V-_bLV3wcpI/AAAAAAAABC0/IWqMJtQ71JUciLBww7kma4qAhQFga7lSwCLcB/s1600/tn-2016.png" group-title="ARGENTINA",C5N
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613428523/ei/y6IqYICVJ9eF1sQP8-6KuAY/ip/181.9.166.41/id/wNWQtUv99TE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgXvSQqe0d7uhF8bHKP1Z5GKle1JLmS_IVUwVgm2Q4UYoCIBPZPjkixlPTqKGKS0vFn-U-M4fkR9ULvQZi8w5qpkTX/file/index.m3u8
 
-#EXTINF:0 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="ARGENTINA",C5N
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613401399/ei/1zgqYMfsDqiV1sQPvaKE6Aw/ip/181.9.166.41/id/wNWQtUv99TE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKG8EKZ_qidRaA4d9QJhzBjoVHjxAq9V8NbB75is7JJiAiEAmqae0P3fGrdkI2rOk3cbZFud8sQXnCiuI2-gvoAtmJA%3D/file/index.m3u8
+#EXTINF:0 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="ARGENTINA",TN
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613428399/ei/T6IqYIyCDaSJ-LAP1LiFqAY/ip/181.9.166.41/id/wHn1_QVoXGM.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIqxC1hrTBFbWHo4B29TOuwLYt3tXSXGCmTt1ahjR3m6AiEAgjKAMjfXU0yEgTn_7zlvYD4Pf7WRWEe2P0mMrTVjVZw%3D/file/index.m3u8
 
 #EXTINF:0 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="ARGENTINA",CANAL26
 https://live-edge01.telecentro.net.ar/live/c26.smil/chunklist_w1933832306_b2628000_sleng.m3u8
 
 #EXTINF:0 tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="ARGENTINA",CRONICA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613401766/ei/RjoqYJCRDKmL1sQPitC-gAc/ip/181.9.166.41/id/iRq3FozeoeA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOoSCYBmbQApxJ9D8TgCNM_pYOpfr0OZ66rXBe7MCS_mAiANSe-9VcMWSCRdxDKEYavKBMUZtmNwnGDwal5Jv_L9Bw%3D%3D/file/index.m3u8
-
+https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8?sense=true
 
 #EXTINF:0 tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",TYC SPORT
-https://playback2.akamaized.net/streams/27014129_8167338_lsik2j4kd5nni87kwd5_1/master.m3u8?dw=80&hdnts=exp=1613381285~acl=/streams/27014129_8167338_lsik2j4kd5nni87kwd5_1/master.m3u8*~hmac=f12467f1278aee57d6b46ca3cb5d24aeb2d2c573969bc8fcf430fab87e645f48
+https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
 
 #EXTINF:0 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="ARGENTINA",TNT SPORT
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1613380875~exp=1613381475~acl=/*~hmac=916b861741917fcae74fd5dc92cb3827a7368202ee839428e0bc39b3f1906e95
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1613405968~exp=1613406568~acl=/*~hmac=79e27e702380dd961d526a9eb59d1a316c2b5757483f7acf5d4fa44eb70b2ca0
 
 #EXTINF:0 tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="ARGENTINA",FOX PREMIUM
-https://content.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343.m3u8?cqs=XHESDZIoAxNZOSTRk3BCZh_2XP3i_-6a51bDPQ8mUzHyIISh58w4oi1yEd8MibzZasesW-TDp9OSjXEAt_Rils03q9dGlNf6EFu3UvEQjbO36VjradYakOqHAfyl0yw-CPwBqJfWwTb8BvIdy2r-n6c4cp-_CSlvoQm0qXcFY-2WGskJ58-pSLkrm0_lTVZNsf3DoPRjBNgPFSduovpDYLZc2aPOZat0MgH0fPUdlg0Ss5wDlyUoQDSREPN5qDil5of6LrVnjQ7iWoo7zTaBFujXdwKMzJiE1CmJn6D5bR_ROD2ZOSMgTEJTfCMr62XaGoKivIoLcLOrstfk8QGRlOpKD9jpVQBW2aAFmwpO2NPXLeCXcqMgj-Lf8oHXLYDk8TK-Fk7HQh5x6dfnEYmbW1z5_aHVpGn9p3uNJSIgQemmc5qFRAZNU49iPxx29tJe_lIxWwE2TyaazvkDpXEO6Q==&kid=7e62bb2a550343b5a8b7b48e63cc22bf
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1613405723~exp=1613406323~acl=/*~hmac=d03fb11f200bf8d516a2a1a8aebe2523dde1b77f57a4e50d647688f257010f0b
 
 #EXTINF:0 tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="PARAGUAY",TIGO SPORT
-https://playback2.akamaized.net/streams/28858495_9035716_lsikrdof8sqs1ljcs25_1/master.m3u8?dw=80&hdnts=exp=1613382133~acl=/streams/28858495_9035716_lsikrdof8sqs1ljcs25_1/master.m3u8*~hmac=22a514b91a81d796235f93d9464adda973cabc811bf09b50249020703dc2bd15
 
+https://playback2.akamaized.net/streams/28858495_9035716_lsihgcghe9j87g07kej_1/master.m3u8?dw=80&hdnts=exp=1613406230~acl=/streams/28858495_9035716_lsihgcghe9j87g07kej_1/master.m3u8*~hmac=a937369370fa5454e910b7d9b0f370a9dc94e745747f422a5a86659ea1ebe1de
 
 
 
