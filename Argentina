@@ -41,5 +41,11 @@ https://live-edge01.telecentro.net.ar/live/c26.smil/chunklist_w1933832306_b26280
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613401766/ei/RjoqYJCRDKmL1sQPitC-gAc/ip/181.9.166.41/id/iRq3FozeoeA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOoSCYBmbQApxJ9D8TgCNM_pYOpfr0OZ66rXBe7MCS_mAiANSe-9VcMWSCRdxDKEYavKBMUZtmNwnGDwal5Jv_L9Bw%3D%3D/file/index.m3u8
 
 
+#EXTINF:0 tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="ARGENTINA",TYC SPORT
+https://playback2.akamaized.net/streams/27014129_8167338_lsik2j4kd5nni87kwd5_1/master.m3u8?dw=80&hdnts=exp=1613381285~acl=/streams/27014129_8167338_lsik2j4kd5nni87kwd5_1/master.m3u8*~hmac=f12467f1278aee57d6b46ca3cb5d24aeb2d2c573969bc8fcf430fab87e645f48
 
+#EXTINF:0 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="ARGENTINA",TNT SPORT
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1613380875~exp=1613381475~acl=/*~hmac=916b861741917fcae74fd5dc92cb3827a7368202ee839428e0bc39b3f1906e95
 
+#EXTINF:0 tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="ARGENTINA",FOX PREMIUM
+https://content.uplynk.com/channel/e450f6b7275b4946afa72bfc4beb6343.m3u8?cqs=XHESDZIoAxNZOSTRk3BCZh_2XP3i_-6a51bDPQ8mUzHyIISh58w4oi1yEd8MibzZasesW-TDp9OSjXEAt_Rils03q9dGlNf6EFu3UvEQjbO36VjradYakOqHAfyl0yw-CPwBqJfWwTb8BvIdy2r-n6c4cp-_CSlvoQm0qXcFY-2WGskJ58-pSLkrm0_lTVZNsf3DoPRjBNgPFSduovpDYLZc2aPOZat0MgH0fPUdlg0Ss5wDlyUoQDSREPN5qDil5of6LrVnjQ7iWoo7zTaBFujXdwKMzJiE1CmJn6D5bR_ROD2ZOSMgTEJTfCMr62XaGoKivIoLcLOrstfk8QGRlOpKD9jpVQBW2aAFmwpO2NPXLeCXcqMgj-Lf8oHXLYDk8TK-Fk7HQh5x6dfnEYmbW1z5_aHVpGn9p3uNJSIgQemmc5qFRAZNU49iPxx29tJe_lIxWwE2TyaazvkDpXEO6Q==&kid=7e62bb2a550343b5a8b7b48e63cc22bf
