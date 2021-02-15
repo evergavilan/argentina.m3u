@@ -13,8 +13,17 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/0ee20b1
 #EXTINF:0 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="ARGENTINA",EL TRECE
 https://usher.ttvnw.net/api/channel/hls/20k_wtt.m3u8?allow_source=true&fast_bread=true&p=1048687&play_session_id=38324131ae0fe9d3d35b45973262d6d6&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=bc21e5df108065256ed84cdc22339a3338b9fd25&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%2220k_wtt%22%2C%22channel_id%22%3A599196472%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%2256cc3c9bd8411f19%22%2C%22expires%22%3A1613353620%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22168.196.246.225%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.3.0
 
-
-
 #EXTINF:0 tvg-chno="10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Logo_telefuturo.jpg" group-title="PARAGUAY",TELE FUTURO
 https://rds3.desdeparaguay.net:443/telefuturo/telefuturo_int_alta/chunklist_w620481963.m3u8?k=8713ec60f9fbc5fbb18d34031d583671b67c3eea5bed8b2b5acd586ab698a56b&exp=1613354009
 
+#EXTINF:0 tvg-chno="11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/SNT_LOGO.jpg" group-title="PARAGUAY",SNT
+http://py-snt-snt-live.ned.media/snt/snt.smil/.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzNDY0NjQwLCJzZXNzaW9uIjoiMTgxLjkuMTY2LjQxIiwid2hpdGVsaXN0IjpbIjE4MS45LjE2Ni40MSJdfSwic2lnbmF0dXJlIjoiOGMxODRmZmQ1MjIxN2M4YTEzMTg5ZDU3M2Q3NTEzNzA4ODEzNmY4OCJ9
+
+#EXTINF:0 tvg-chno="12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Latele_Paraguay.jpg" group-title="PARAGUAY",LA TELE
+https://rds3.desdeparaguay.net:443/latele/latele_int_alta/chunklist_w1818879584.m3u8?k=2f42efd13bf8bcd02b02147d3fde90fb6a814ca1e5fbbf34a48e97c2116c3a40&exp=1613378720
+
+#EXTINF:0 tvg-chno="13" tvg-logo="https://i.pinimg.com/originals/29/db/ba/29dbbaa4b401cfb760813f915e886e8e.jpg" group-title="PARAGUAY",UNICANAL
+http://45.55.127.106/live/unicanal.m3u8
+
+#EXTINF:0 tvg-chno="14" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="PARAGUAY",EL TRECE
+https://stream.rpc.com.py/live/trece.m3u8
