@@ -44,16 +44,14 @@ https://g5.vxral-slo.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_
 https://content.jwplatform.com/videos/ubIUxrYq-640.m3u8
 
 #EXTINF:0 tvg-chno="15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="ARGENTINA",TNT SPORT
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1613405968~exp=1613406568~acl=/*~hmac=79e27e702380dd961d526a9eb59d1a316c2b5757483f7acf5d4fa44eb70b2ca0
+https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/kqfqxg.m3u8?s=uXM-EDOktEHYDthI-kO6Gw&e=1613437251
 
 #EXTINF:0 tvg-chno="16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Fox_Sports_Premium_Argentina_2020.png" group-title="ARGENTINA",FOX PREMIUM
-https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1613405723~exp=1613406323~acl=/*~hmac=d03fb11f200bf8d516a2a1a8aebe2523dde1b77f57a4e50d647688f257010f0b
+https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/nqr8ua5ep6t.m3u8?s=72ohP2-Vntvvspos9Eixmg&e=1613436369
 
 #EXTINF:0 tvg-chno="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1280px-Tigo_Sports_logo.svg.png" group-title="PARAGUAY",TIGO SPORT
-
 https://playback2.akamaized.net/streams/28858495_9035716_lsihgcghe9j87g07kej_1/master.m3u8?dw=80&hdnts=exp=1613406230~acl=/streams/28858495_9035716_lsihgcghe9j87g07kej_1/master.m3u8*~hmac=a937369370fa5454e910b7d9b0f370a9dc94e745747f422a5a86659ea1ebe1de
 
 
-
-
-
+#EXTINF:0 tvg-chno="18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png" group-title="LATINO",CANAL DE LAS ESTRELLA 
+https://ujhv6j6g5hyfanbd.ezcdn483.net:8443/hls/dscs0wr97wf.m3u8?s=2rOG9242pco5ATHTCOh7lw&e=1613436939
